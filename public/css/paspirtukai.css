@@ -1,0 +1,57 @@
+.centras{
+    text-align: center;
+}
+
+#neraJokiuPaspirtuku{
+    padding: 20px;
+}
+
+.konteineris{
+    display: inline;
+}
+
+.deze{
+margin: 5px;
+border: 1px solid #ccc;
+float: left;
+width: 240px;
+height: 350px;
+}
+
+.dezesPaveikslas{
+width:150px;
+height:150px;
+}
+  
+.dezesTekstas{
+font-size: 16px;
+padding: 15px;
+text-align: center;
+}
+
+.showPavadinimas{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    padding: 20px;
+}
+
+.showTekstas{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 20px;
+}
+
+.showPaveikslas{
+width:300px;
+height:300px;
+}
+
+.dydis{
+width:20px;
+height:20px;
+}
+
+.krepselis{
+    display: flex;
+    justify-content: space-around;
+}
